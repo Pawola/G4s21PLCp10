@@ -9,7 +9,7 @@ import com.google.gson.Gson;
 
 /**
  *
- * @author David
+ * @author Paola
  */
 public class convertir {
     

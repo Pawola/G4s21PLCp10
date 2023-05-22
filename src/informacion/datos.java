@@ -7,7 +7,7 @@ package informacion;
 
 /**
  *
- * @author David
+ * @author Paola
  */
 public class datos {
         String nombre;

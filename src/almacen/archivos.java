@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *
- * @author David
+ * @author Paola
  */
 public class archivos {
     List<datos> contenido = new ArrayList<>();

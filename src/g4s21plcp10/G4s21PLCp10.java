@@ -7,7 +7,7 @@ package g4s21plcp10;
 
 /**
  *
- * @author David
+ * @author Paola
  */
 public class G4s21PLCp10 {
 
